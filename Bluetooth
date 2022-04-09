@@ -1,5 +1,6 @@
-int mina();
-#Första code
+
+
+Första code
 
 char incoming_value = 0;  // definiera vår teckenvariabel inkommande värde och vi gör den som en nolla.
 
